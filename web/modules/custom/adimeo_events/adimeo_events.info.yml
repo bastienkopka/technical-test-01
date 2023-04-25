@@ -1,0 +1,5 @@
+name: Adimeo events
+description: Module that manages events
+type: module
+packages: Adimeo
+core_version_requirement: ^9

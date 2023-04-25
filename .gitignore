@@ -1,0 +1,28 @@
+/web/core
+/web/libraries
+/web/modules/contrib
+/web/themes/contrib
+/web/profiles/contrib
+/web/translations/contrib
+/web/.eslintignore
+/web/.ht.router.php
+/web/.htaccess
+/web/autoload.php
+/web/index.php
+/web/robots.txt
+
+# Drupal default settings.
+/web/sites/default/default.services.yml
+/web/sites/default/default.settings.php
+/web/sites/default/settings.php
+/web/sites/development.services.yml
+/web/sites/example.settings.local.php
+/web/sites/example.sites.php
+/web/sites/default/files/
+/web/sites/simpletest/
+
+.editorconfig
+
+# Other files.
+/vendor/
+/.idea/

@@ -1,0 +1,6 @@
+services:
+  adimeo_events.helper:
+    class: Drupal\adimeo_events\Service\AdimeoEventsHelper
+    arguments:
+      - '@plugin.manager.block'
+      - '@logger.factory'
